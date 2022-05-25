@@ -1,15 +1,16 @@
-- Hi, I’m @Shmorty
-- I’m interested in integrating technologies in new ways.
-- I’m currently learning AWS and Concourse, here are some other things i've been experimenting with
+Hi, I’m @Shmorty and I'm using this space for personal projects and learnings. I'm often learning something new and sometimes I'm off doing other stuff. 
+
+Some of the thinks I've been experimenting with
+  - AWS
   - docker/docker-compose
+  - Angular/Capacitor
+  - Ionic
   - raspberry pi
   - Plex
   - zfs
   - wordpress
   - Swift
   - Linux KVM
-- I’m looking to collaborate on ...
-- How to reach me: hmm... not ready for any collaboration, still learing
 
 <!---
 Shmorty/Shmorty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
